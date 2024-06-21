@@ -88,6 +88,6 @@ private static ArrayList<Componente> componentes= new ArrayList<>();
         componentes.add(new Componente(70,"Monitor"));
         componentes.add(new Componente(40,"NIC"));
         armarEquipoElectronico();
-        
+        //HOLAAAAAAAAAAAAA
     }
 }
